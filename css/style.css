@@ -9,6 +9,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 
 .nav-title{
@@ -45,4 +46,22 @@ nav a {
     text-decoration: none;
     color: #474747;
 
+}
+
+/* header related style  */
+
+
+.heater-area{
+    background-color: #FFF;
+
+}
+.banner-heder{
+padding: 30px 30px 30px 150px;
+display: flex;
+align-items: center;
+}
+
+.banner-heder .profile-pic{
+    width: 584px;
+    height: 676px;
 }
